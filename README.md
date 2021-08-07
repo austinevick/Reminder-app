@@ -1,4 +1,4 @@
-## reminder_app
+# REMINDER APP
  
  # A Reminder app built with flutter and dart with push notification.
  
