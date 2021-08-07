@@ -30,6 +30,8 @@
 .pub-cache/
 .pub/
 /build/
+android/app/upload-keystore.jks
+key.properties
 
 # Web related
 lib/generated_plugin_registrant.dart
