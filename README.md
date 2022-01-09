@@ -2,8 +2,8 @@
  
  ## A Reminder app built with flutter and dart with push notification.
  
- # Download from Playstore
- ![](https://play.google.com/store/apps/details?id=com.augustinevictor.reminder_app)
+ 
+ # [Download from Playstore](https://play.google.com/store/apps/details?id=com.augustinevictor.reminder_app)
  
  ![](https://github.com/austinevick/Reminder-app/blob/main/screenshot/Screenshot_20210807-100127.png)
  ![](https://github.com/austinevick/Reminder-app/blob/main/screenshot/Screenshot_20210807-100143.png)
